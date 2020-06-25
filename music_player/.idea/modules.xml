@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../MyApplication3.iml" filepath="$PROJECT_DIR$/../MyApplication3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../datesharing_after/datesharing_after.iml" filepath="$PROJECT_DIR$/../datesharing_after/datesharing_after.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../datesharing_pre/datesharing_pre.iml" filepath="$PROJECT_DIR$/../datesharing_pre/datesharing_pre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../labtestsystem/labtestsystem.iml" filepath="$PROJECT_DIR$/../labtestsystem/labtestsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music_player.iml" filepath="$PROJECT_DIR$/music_player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../music_player_pre/music_player_pre.iml" filepath="$PROJECT_DIR$/../music_player_pre/music_player_pre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sqlite_db/sqlite_db.iml" filepath="$PROJECT_DIR$/../sqlite_db/sqlite_db.iml" />
+    </modules>
+  </component>
+</project>
